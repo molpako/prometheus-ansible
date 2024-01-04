@@ -1,5 +1,5 @@
 ---
-namespace: prometheus
+namespace: molpako
 name: prometheus
 version: 0.10.1
 readme: README.md
@@ -20,7 +20,7 @@ tags:
   - cloud
 dependencies:
   community.general: '>=1.0.0'
-repository: "https://github.com/prometheus-community/ansible"
+repository: "https://github.com/molpako/prometheus-ansible"
 documentation: "https://prometheus-community.github.io/ansible"
 homepage: "https://prometheus.io"
 issues: "https://github.com/prometheus-community/ansible/issues"
